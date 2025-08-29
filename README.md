@@ -7,7 +7,7 @@
 
 ## 📸 Preview  
 
-![Website Screenshot 1](./Assets/screenshot1.png)  
+![Website Screenshot 1](Assets/screenshot1.png)  
 ![Website Screenshot 2](./Assets/screenshot2.png)  
 ![Website Screenshot 3](./Assets/screenshot3.png)  
 ![Website Screenshot 4](./Assets/screenshot4.png)  
