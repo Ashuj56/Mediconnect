@@ -7,13 +7,13 @@
 
 ## 📸 Preview  
 
-![Website Screenshot 1](Assets/Screenshot 1.png)  
-![Website Screenshot 2](Assets/Screenshot 2.png)  
-![Website Screenshot 3](Assets/Screenshot 3.png)  
-![Website Screenshot 4](Assets/Screenshot 4.png)  
-![Website Screenshot 5](Assets/Screenshot 5.png)  
-![Website Screenshot 6](Assets/Screenshot 6.png)  
-![Website Screenshot 7](Assets/Screenshot 7.png)  
+![Website Screenshot 1](Assets/Screenshot1.png)  
+![Website Screenshot 2](Assets/Screenshot2.png)  
+![Website Screenshot 3](Assets/Screenshot3.png)  
+![Website Screenshot 4](Assets/Screenshot4.png)  
+![Website Screenshot 5](Assets/Screenshot5.png)  
+![Website Screenshot 6](Assets/Screenshot6.png)  
+![Website Screenshot 7](Assets/Screenshot7.png)  
 
 ---
 
