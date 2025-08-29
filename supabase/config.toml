@@ -1,0 +1,13 @@
+project_id = "ztobsemiydybfoxaytui"
+
+[functions.ai-intake-chatbot]
+verify_jwt = true
+
+[functions.generate-soap-notes]
+verify_jwt = true
+
+[functions.ai-triage-classifier]
+verify_jwt = true
+
+[functions.generate-prescription]
+verify_jwt = true
